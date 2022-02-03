@@ -1,0 +1,29 @@
+.picture {
+  
+    display: inline-block;
+
+    
+    margin: 10px;
+}
+
+.gallery img {
+  
+    height: 200px;
+
+    
+    border: 3px double black;
+}
+
+.gallery p {
+    text-align: center;
+    margin-top: 0;
+}
+body{
+    text-align:center;
+    background:url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+    color:white;
+}
+.show1,.show2,.show3 {
+    width: 200px;
+    height: 250px; 
+}
